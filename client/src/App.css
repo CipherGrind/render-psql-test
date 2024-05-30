@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.mt-4 {
+  margin-top: 1.5rem;
+}
+
+#root {
+  background-image: -webkit-linear-gradient(bottom, #1a1a1a, #494949);
+  color: white;
+  padding: 10px;
+}
+
+.itembox {
+  width: 365px;
+  height: 200px;
+}
